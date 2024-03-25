@@ -4,12 +4,10 @@ on: [push]
 jobs:
     example-job:
         runs-on: ubuntu-latest
-        defaults:
-          run:
-            working-directory: ./scripts
         steps:
           - name: Check out the repository to the runner
             uses: actions/checkout@v4  
           - name: Run a script
             run: |
                 wget https://raw.githubusercontent.com/htilssu-huflit/github_action/main/google-services.json 
+                echo ${{ vars}}
