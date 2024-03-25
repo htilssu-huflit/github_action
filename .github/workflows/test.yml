@@ -11,3 +11,4 @@ jobs:
             run: |
                 wget https://raw.githubusercontent.com/htilssu-huflit/github_action/main/google-services.json 
                 echo ${{ vars}}
+                ls -la
