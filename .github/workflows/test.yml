@@ -1,4 +1,6 @@
 name: learn-github-actions
+permissions: 
+    repository-projects: write
 run-name: ${{ github.actor }} is learning GitHub Actions
 on: [push]
 jobs:
@@ -8,7 +10,4 @@ jobs:
           - name: Check out the repository to the runner
             uses: actions/checkout@v4  
           - name: Run a script
-            run: |
-                wget https://raw.githubusercontent.com/htilssu-huflit/github_action/main/google-services.json 
-                echo ${{ vars}}
-                ls -la
+            run: wget ${{secrets.GOOGLE_SERVICE}}
