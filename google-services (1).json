@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14004916308",
+    "project_id": "aaaa-7d974",
+    "storage_bucket": "aaaa-7d974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14004916308:android:b7bbf963f696701271ddc1",
+        "android_client_info": {
+          "package_name": "com.oggysocial.oggysocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vRrwMUQ6_h_aCCLMbfqQVIFgnvk2hvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
