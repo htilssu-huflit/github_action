@@ -1,37 +1,26 @@
 {
   "project_info": {
-    "project_number": "408673869987",
-    "firebase_url": "https://mobilesocialapp-1668a-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "mobilesocialapp-1668a",
-    "storage_bucket": "mobilesocialapp-1668a.appspot.com"
+    "project_number": "14004916308",
+    "project_id": "aaaa-7d974",
+    "storage_bucket": "aaaa-7d974.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:408673869987:android:1278b108adcdc1fbffdf16",
+        "mobilesdk_app_id": "1:14004916308:android:b7bbf963f696701271ddc1",
         "android_client_info": {
           "package_name": "com.oggysocial.oggysocial"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "408673869987-msdosq4tse38ofjsalsb2cur12v39kam.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD7b_XnCXd94ZID9NKa8FtQ1quhUR6AZzM"
+          "current_key": "AIzaSyA_vRrwMUQ6_h_aCCLMbfqQVIFgnvk2hvo"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "408673869987-msdosq4tse38ofjsalsb2cur12v39kam.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
